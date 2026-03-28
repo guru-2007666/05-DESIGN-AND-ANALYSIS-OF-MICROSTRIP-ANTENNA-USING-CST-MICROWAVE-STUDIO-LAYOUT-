@@ -3,7 +3,15 @@
 **Aim of the Experiment:** To design a quarter wave transformer for matching a 50 Ohm microstrip line with a load of 123 Ohms
 Software to be used: CST studio suite 2019 (Student edition)
 
+
 **Design:**
+
+<img width="732" height="327" alt="image" src="https://github.com/user-attachments/assets/a191f0a8-4e34-4ee8-a75a-62d264a568cd" />
+<img width="762" height="348" alt="image" src="https://github.com/user-attachments/assets/e4858dc5-1e6f-4fe5-b7cf-d2dce2118cec" />
+<img width="863" height="412" alt="image" src="https://github.com/user-attachments/assets/24259a83-4eab-40c0-a924-25969ef776c4" />
+
+
+
 
 **Mathematical Calculation**
 
